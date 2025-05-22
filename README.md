@@ -9,9 +9,11 @@ This repository contains coursework for MSSE 642 - Software Assurance at Regis U
 
 ## 📚 Discussions
 
-- [Week 1](Discussions/week1/)
-  - [Git Basics: Core Concepts and Architecture](Discussions/week1/discussion1.md)
+- Assignment 1
+  - [Git Basics: Core Concepts and Architecture](Discussions/assignment1/discussion1.md)
   - [Initial Setup: GitHub Actions and Markdown Linting](Discussions/week1/initialSetup.md)
+- Assignment 2
+  - [Assignment 2](Discussions/assignment2/assignment2.md)
 
 ## 🔒 Security Analysis
 
