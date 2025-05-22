@@ -11,7 +11,7 @@
     - **Git Lens** _Shows Git history_  
       ![Git Lens Extension](assets/gitLens.jpg)
     - **Python**  
-      ![Python Extension](assets/pyton.jpg)
+      ![Python Extension](assets/python.jpg)
 
 
 ## Activity 2
@@ -19,7 +19,7 @@
 - **Cloned Class Repo**
   - ![Cloned Repo](assets/gitClone.jpg)
 - **Local Git-Project Repo**
-  - ![Local Repo](assets/localRepo.jpg)
+  - ![Local Repo](assets/gitLocal.jpg)
 
 ## Activity 3
 
