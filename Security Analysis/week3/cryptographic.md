@@ -160,9 +160,9 @@ This report was researched and written using verified sources and refined with t
 
 **References:**
 
-- OWASP Top 10: [https://owasp.org/Top10/A02_2021-Cryptographic_Failures/](https://owasp.org/Top10/A02_2021-Cryptographic_Failures/)
-- OWASP Crypto Cheat Sheet: [https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html)
-- 2019. Facebook Stored Hundreds of Millions of User Passwords in Plain Text for Years: [https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text/](https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text/)
-- 2021. What Really Caused Facebook's 500M-User Data Leak? [https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text/](https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text/)
-- 2019. Losing Face: Two More Cases of Third-Party Facebook App Data Exposure [https://www.upguard.com/breaches/facebook-user-data-leak](https://www.upguard.com/breaches/facebook-user-data-leak)
-- Hoffman, A. (2020). *Web Application Security: Exploitation and Countermeasures for JavaScript Apps*. O’Reilly Media.
+* OWASP Top 10: [https://owasp.org/Top10/A02_2021-Cryptographic_Failures/](https://owasp.org/Top10/A02_2021-Cryptographic_Failures/)
+* OWASP Crypto Cheat Sheet: [https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html)
+* 2019. Facebook Stored Hundreds of Millions of User Passwords in Plain Text for Years: [https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text/](https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text/)
+* 2021. What Really Caused Facebook's 500M-User Data Leak? [https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text/](https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text/)
+* 2019. Losing Face: Two More Cases of Third-Party Facebook App Data Exposure [https://www.upguard.com/breaches/facebook-user-data-leak](https://www.upguard.com/breaches/facebook-user-data-leak)
+* Hoffman, A. (2020). *Web Application Security: Exploitation and Countermeasures for JavaScript Apps*. O’Reilly Media.
