@@ -18,6 +18,7 @@ This repository contains coursework for MSSE 642 - Software Assurance at Regis U
 ## 🔒 Security Analysis
 
 - [Injection (Cross-site Scripting)](Security%20Analysis/week2/injection.md)
+- [Cryptographic Failures](Security%20Analysis/week2/cryptographic.md)
 
 ---
 
