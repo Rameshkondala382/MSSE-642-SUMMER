@@ -1,4 +1,9 @@
 # MSSE-642-SUMMER
+## WEEKLY ASSIGNMENTS
+
+
+## ASSIGNMENT-1 WEEK-2
+
 
 Ramesh KONDALA
 MSSE-642 Software Assurance
@@ -48,3 +53,10 @@ Diagram: Git Architecture and Workflow
 
 ![My Photo](./my-photo.jpeg)
 
+
+
+
+
+
+## ASSIGNMENT-2 WEEK-3
+[Assignment #2](WEEK-3/Assignment2<Kondala>.md)
