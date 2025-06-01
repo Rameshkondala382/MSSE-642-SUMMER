@@ -1,9 +1,10 @@
 # MSSE642 - Software Assurance
 
-This repository contains coursework for MSSE 642 - Software Assurance at Regis University. It is organized into two main sections:
+This repository contains coursework for MSSE 642 - Software Assurance at Regis University. It is organized into three main sections:
 
 - **Discussions:** Weekly discussion posts covering software engineering concepts and tools.
 - **Security Analysis:** Analytical papers and notes on software security topics.
+- **Labs:** Real work assignments using fictisious apps to test best security practices.
 
 ---
 
