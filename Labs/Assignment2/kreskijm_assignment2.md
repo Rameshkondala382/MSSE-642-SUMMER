@@ -34,7 +34,9 @@ The Hiking Club application will be deployed specifically using Amazon Web Servi
 
 ### Part 2A: AWS Architectural Components
 
-[Hiking Club Diagram](hikingclub.drawio)
+[Hiking Club Drawio Code](hikingclub.drawio)
+
+[Hiking Club Diagram](hikingclub.png)
 
 **Components:**
 - Amazon Route 53 (DNS)
@@ -108,4 +110,7 @@ The Hiking Club application will be deployed specifically using Amazon Web Servi
 - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 - [OWASP Threat Modeling Guide](https://owasp.org/www-community/Application_Threat_Modeling)
 - [OWASP Wiki on Threat Modeling](https://wiki.owasp.org/index.php/Category:Threat_Modeling)
+- [EdrawMax: AWS Architecture Diagram Examples](https://www.edrawmax.com/article/aws-architecture-diagram-examples.html)
+- [Gliffy: AWS Architecture Diagram Examples](https://www.gliffy.com/blog/aws-architecture-diagram-examples)
+- [Creately: AWS VPC Architecture Diagram with Public and Private Subnets](https://creately.com/guides/aws-architecture-diagrams-and-use-cases/#aws-vpc-architecture-diagram-with-public-and-private-subnets)
 
