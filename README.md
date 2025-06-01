@@ -14,11 +14,14 @@ This repository contains coursework for MSSE 642 - Software Assurance at Regis U
   - [Initial Setup: GitHub Actions and Markdown Linting](Discussions/week1/initialSetup.md)
 - Assignment 2
   - [Assignment 2](Discussions/assignment2/assignment2.md)
+- Assignment 3
+  - [Assignment 3](Discussions/assignment3/assignment3.md)
 
 ## 🔒 Security Analysis
 
 - [Injection (Cross-site Scripting)](Security%20Analysis/week2/injection.md)
 - [Cryptographic Failures](Security%20Analysis/week3/cryptographic.md)
+- [Broken Access Control](Security%20Analysis/week4/brokenAccessControl.md)
 
 ---
 
