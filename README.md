@@ -10,19 +10,18 @@ This repository contains coursework for MSSE 642 - Software Assurance at Regis U
 
 ## 📚 Discussions
 
-- Assignment 1
-  - [Git Basics: Core Concepts and Architecture](Discussions/assignment1/discussion1.md)
-  - [Initial Setup: GitHub Actions and Markdown Linting](Discussions/week1/initialSetup.md)
-- Assignment 2
-  - [Assignment 2](Discussions/assignment2/assignment2.md)
-- Assignment 3
-  - [Assignment 3](Discussions/assignment3/assignment3.md)
+- [Assignment 1 - Git Basics](Discussions/assignment1/discussion1.md)
+  - [Initial Setup: GitHub Actions and Markdown Linting](Discussions/assignment1/initialSetup.md)
+- [Assignment 2 - VSCode & GitBash](Discussions/assignment2/assignment2.md)
+- [Assignment 3 - Git Activities](Discussions/assignment3/assignment3.md)
 
 ## 🔒 Security Analysis
 
 - [Injection (Cross-site Scripting)](Security%20Analysis/week2/injection.md)
 - [Cryptographic Failures](Security%20Analysis/week3/cryptographic.md)
 - [Broken Access Control](Security%20Analysis/week4/brokenAccessControl.md)
+- [Security Logging and Monitoring Failures](Security%20Analysis/week5/logging&Monitoring.md)
+- [Software and Data Integrity Failures](Security%20Analysis/week6/integrity.md)
 
 ## 🧪 Labs
 

@@ -1,3 +1,5 @@
+#### [🔙 Back to README](../../README.md)
+
 # Week 1 Discussion: GitHub Actions and Markdown Linting for Text-Based Repositories
 
 ## Introduction

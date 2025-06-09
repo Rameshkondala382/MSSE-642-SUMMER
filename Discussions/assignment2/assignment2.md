@@ -1,3 +1,5 @@
+#### [🔙 Back to README](../../README.md)
+
 # Assignment 2
 
 ## Activity 1: Configure Visual Studio Code (VSC)
