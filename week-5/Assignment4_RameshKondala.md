@@ -1,7 +1,6 @@
 **Step 1: Created a New Feature Branch
 **
 
-
 I created a feature branch using Visual Studio Code by clicking the branch icon in the bottom left and selecting + Create new branch.
 I named the branch: feat/assignment4 before adding new branch
 
