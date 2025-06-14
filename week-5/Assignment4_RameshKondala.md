@@ -10,3 +10,6 @@ after adding used the CLI, to see the local and remote branches.
 ! [cli](screenshots/gitbranch.png)
 
 Committed  changes to the local repo branch and then publish to the remote repo.
+
+![savedchanges](commit.png)
+
