@@ -13,3 +13,11 @@ Committed  changes to the local repo branch and then publish to the remote repo.
 
 ![savedchanges](commit.png)
 
+What is different when you run git branch and git branch -r?
+
+| Command         | Lists                    | Scope        |
+| --------------- | ------------------------ | ------------ |
+| `git branch`    | Local branches           | Local only   |
+| `git branch -r` | Remote-tracking branches | Remote only  |
+| `git branch -a` | Both local and remote    | All branches |
+
