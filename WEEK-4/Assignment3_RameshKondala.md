@@ -123,9 +123,16 @@ Lists the URLs of remotes associated with the local repo.
 
 
 What is the function of the git fetch command?
+
+
+
         Downloads new data from the remote but does not merge it into your current branch.
 
 What is the difference between fetch and pull. Practice using both and show the results?
+
+
+
+
     Difference: Fetch vs Pull
         Downloads changes, does NOT update working branch
         Downloads and merges changes into current branch
