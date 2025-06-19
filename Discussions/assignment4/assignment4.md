@@ -29,8 +29,16 @@ git switch main
 git pull
 ```
 
+![Local Pull/Merge](assets/vsPull.jpg)
+
 ### 5. Delete local branch after merging or completing work
 
 ```bash
 git branch -D assn4
 ```
+
+## Git UI PR
+
+![GIT CreatePR](assets/gitPR.jpg)
+![GIT Squash and Merge PR](assets/gitPR2.jpg)
+![GIT Delete Remote Branch](assets/gitDRemote.jpg)
