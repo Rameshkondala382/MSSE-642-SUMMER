@@ -24,6 +24,9 @@ This repository contains coursework for MSSE 642 - Software Assurance at Regis U
 - [Broken Access Control](Security%20Analysis/week4/brokenAccessControl.md)
 - [Security Logging and Monitoring Failures](Security%20Analysis/week5/logging&Monitoring.md)
 - [Software and Data Integrity Failures](Security%20Analysis/week6/integrity.md)
+- [Vulnerable and Outdated Components](Security%20Analysis/week7/components.md)
+- [Identification and Authentication Failures](Security%20Analysis/week8/id.md)
+
 
 ## 🧪 Labs
 
