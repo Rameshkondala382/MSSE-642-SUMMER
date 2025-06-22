@@ -1,7 +1,13 @@
-Ramesh KONDALA
-MSSE-642 Software Assurance
-June-21, 2025
-Randall Granier
+# Ramesh KONDALA
+
+
+# MSSE-642 Software Assurance
+
+
+# June-21, 2025
+
+
+# Randall Granier
  
 
 
@@ -16,12 +22,26 @@ Vulnerable and outdated components are software dependencies, libraries, or fram
 
 example uses a deprecated `requests` version vulnerable to server-side request forgery (SSRF), while the secure version patches the flaw.
 Specific Real-World Examples
+
+
+
 **Equifax (2017):**
 **Attackers took advantage of CVE-2017-5638, a vulnerability in Apache Struts, to compromise 147 million records. Equifax didn't patch the framework for over two months after the update came out, allowing unauthorized access to sensitive data.
+
+
+
 **Log4j (2021):**
 **The Log4Shell vulnerability (CVE-2021-44228) in Apache Log4j 2.x allowed remote code execution (RCE) via malicious log messages, impacting millions of systems, including cloud services like Apple iCloud and Steam, due to patching delays. Securing these systems is crucial!
+
+
+
+
 **Kaseya VSA (2021):**
 **Malicious actors used a zero-day vulnerability in Kaseya’s on-premises VSA software (CVE-2021-30116) to spread the REvil ransomware. The outdated codebase lacked modern input validation, allowing them to move laterally across 1,500 businesses.
+
+
+
+
 **Analysis**: How to Prevent Vulnerable & Outdated Components
 Automated Dependency Scanning
 Use tools like Nessus, Qualys, or Snyk to detect outdated libraries and unpatched CVEs in codebases and containers.
