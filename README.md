@@ -15,6 +15,8 @@ This repository contains coursework for MSSE 642 - Software Assurance at Regis U
 - [Assignment 2 - VSCode & GitBash](Discussions/assignment2/assignment2.md)
 - [Assignment 3 - Git Activities](Discussions/assignment3/assignment3.md)
 - [Assignment 4 - Git Branching](Discussions/assignment4/assignment4.md)
+- [Assignment 5 - Git Collaborating](Collab%20File/assin5Collab.md)
+
 
 
 ## 🔒 Security Analysis
