@@ -20,6 +20,8 @@ Vulnerable and outdated components are software dependencies, libraries, or fram
 
 **Example of an Outdated Dependency:** 
 
+![My Photo](images/Vulnerable.png)
+
 example uses a deprecated `requests` version vulnerable to server-side request forgery (SSRF), while the secure version patches the flaw.
 Specific Real-World Examples
 

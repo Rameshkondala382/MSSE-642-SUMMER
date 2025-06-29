@@ -18,7 +18,7 @@ Identification and Authentication Failures—previously known as Broken Authenti
 
 **Example of a Vulnerable Authentication Flow** 
 
-![My Photo](auth.PNG)
+![My Photo](images/auth.png)
 This example is vulnerable to brute-force and credential stuffing attacks, and lacks MFA or secure session management.
 Specific Real-World Example
 
